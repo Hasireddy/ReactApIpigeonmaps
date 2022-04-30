@@ -1,0 +1,17 @@
+{
+
+    "ip": "31.18.252.56",
+    "location": {
+        "country": "DE",
+        "region": "Lower Saxony",
+        "timezone": "+02:00"
+    },
+    "as": {
+        "asn": 31334,
+        "name": "KABELDEUTSCHLAND-AS",
+        "route": "31.18.252.0/22",
+        "domain": "as31334.de",
+        "type": "Cable/DSL/ISP"
+    },
+    "isp": "Vodafone Deutschland GmbH"
+}
